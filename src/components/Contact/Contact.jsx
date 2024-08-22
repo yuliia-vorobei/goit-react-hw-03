@@ -1,4 +1,4 @@
-import css from "./Contacts.module.css";
+import css from "./Contact.module.css";
 import { IoPerson } from "react-icons/io5";
 import { FaPhone } from "react-icons/fa6";
 
